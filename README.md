@@ -33,6 +33,7 @@ because I needed it and nobody had built it yet.
 | Project | What it does | Status |
 |---------|-------------|--------|
 | **[ProphetLabs](https://github.com/Kowalskk/prophetlabs)** | Prediction market arbitrage engine. Polymarket ↔ Opinion Labs ↔ Kalshi ↔ Predict, WebSocket streaming, 3-pass matching with LLM validation | ✅ Live |
+| **[Telegram Mirror Bot](https://github.com/Kowalskk/telegram-mirror-bot)** | Professional Telegram scraper and message mirror. High-performance forwarding/copying with advanced filtering and independent bot control | ✅ Live |
 | **[Funding Radar](https://github.com/Kowalskk/funding-radar)** | DEX funding rate aggregator for perpetual futures arbitrage signals. Hyperliquid + Aster | ✅ Live |
 | **[Solarized](https://github.com/Kowalskk/onchain-intel-suite)** | Institutional-grade Solana forensic tracing and wallet analysis engine. Trace fund flows through complex multi-hop transfers. | ✅ Live |
 | **[CZ_SNIPE BOT](https://github.com/Kowalskk/trading-bots)** | A high-performance trading bot designed to monitor Twitter accounts (like @cz_binance) and correlate tweets with new token launches on Four.Meme (Binance Smart Chain). | ✅ Live |
