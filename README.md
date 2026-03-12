@@ -2,9 +2,6 @@
 
 I'm not a developer. I'm a builder who happens to write code.
 
-13 years running a glass manufacturing business (€1M revenue, clients like Zara and Ikea).
-9 years in crypto. 2 years full-time building DeFi tools, on-chain intel systems, and trading infrastructure.
-
 No CS degree. No bootcamp. I use Claude, Cursor, and Antigravity to go from
 "this tool should exist" to "here it is" in days. Every project here started
 because I needed it and nobody had built it yet.
@@ -27,8 +24,9 @@ because I needed it and nobody had built it yet.
 **On-Chain:** Dune Analytics (advanced SQL) · Arkham · Birdeye · Helius · Cielo
 **AI-Assisted Dev:** Claude (API + Desktop + MCP) · Cursor · Antigravity IDE
 **DeFi:** Hyperliquid · Polymarket · Jupiter · Meteora · Kamino · Orca · Raydium
+ 
 
----
+---  
 
 ### What I shipped 🛠️
 
@@ -36,28 +34,12 @@ because I needed it and nobody had built it yet.
 |---------|-------------|--------|
 | **[ProphetLabs](https://github.com/Kowalskk/prophetlabs)** | Prediction market arbitrage engine. Polymarket ↔ Opinion Labs ↔ Kalshi ↔ Predict, WebSocket streaming, 3-pass matching with LLM validation https://prophetlabs.vercel.app/ | ✅ Live |
 | **[Funding Radar](https://github.com/Kowalskk/funding-radar)** | DEX funding rate aggregator for perpetual futures arbitrage signals. Hyperliquid + Aster | ✅ Live |
+| **[On-Chain Intel Suite](https://github.com/Kowalskk/onchain-intel-suite)** | Smart money detection: Dune SQL optimization, wallet tracking, holder analysis, cabal detection | ✅ Live |
+| **[Trading Bots](https://github.com/Kowalskk/trading-bots)** | Multi-chain execution infra: BSC copytrading, Polymarket multi-strategy, Solana wallet tracker | ✅ Live |
 | **[Meteora LP Agent](https://github.com/Kowalskk/meteora-lp-agent)** | Autonomous Solana liquidity agent for DLMM pools with contextual bandit learning | 📐 Spec / Prototype |
-| **[On-Chain Intel Suite](https://github.com/Kowalskk/onchain-intel-suite)** | Smart money detection: Dune SQL optimization, wallet tracking, holder analysis, cabal detection | 📐 Spec / Prototype |
-| **[Trading Bots](https://github.com/Kowalskk/trading-bots)** | Multi-chain execution infra: BSC copytrading, Polymarket multi-strategy, Solana wallet tracker | 📐 Spec / Prototype |
 
 > 📐 = Architecture designed, core logic prototyped, not yet production-deployed.
 > These repos contain specs, system design docs, and prototype code.
-
----
-
-### Before crypto
-
-**Co-Owner & BizDev Director — Grupo Vevey Vidrio** (2010–2023)
-
-Started as an intern in my father's glass workshop. Left 13 years later as co-owner
-of a company doing €1M/year with 8 employees, manufacturing retail fixtures for
-Inditex (Zara), Mercadona, Ikea, and Adolfo Domínguez.
-
-I ran everything: client acquisition, pricing, production planning, supply chain,
-delivery logistics, B2B negotiation. The same operational discipline I now use to
-ship software.
-
-I left by choice. Took my savings and went all-in on crypto with a 2-year runway.
 
 ---
 
