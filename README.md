@@ -35,7 +35,7 @@ because I needed it and nobody had built it yet.
 | **[ProphetLabs](https://github.com/Kowalskk/prophetlabs)** | Prediction market arbitrage engine. Polymarket ↔ Opinion Labs ↔ Kalshi ↔ Predict, WebSocket streaming, 3-pass matching with LLM validation | ✅ Live |
 | **[Funding Radar](https://github.com/Kowalskk/funding-radar)** | DEX funding rate aggregator for perpetual futures arbitrage signals. Hyperliquid + Aster | ✅ Live |
 | **[On-Chain Intel Suite](https://github.com/Kowalskk/onchain-intel-suite)** | Smart money detection: Dune SQL optimization, wallet tracking, holder analysis, cabal detection | ✅ Live |
-| **[Trading Bots](https://github.com/Kowalskk/trading-bots)** | Multi-chain execution infra: BSC copytrading, Polymarket multi-strategy, Solana wallet tracker | ✅ Live |
+| **[CZ_SNIPE BOT](https://github.com/Kowalskk/trading-bots)** | A high-performance trading bot designed to monitor Twitter accounts (like @cz_binance) and correlate tweets with new token launches on Four.Meme (Binance Smart Chain). | ✅ Live |
 | **[Meteora LP Agent](https://github.com/Kowalskk/meteora-lp-agent)** | Autonomous Solana liquidity agent for DLMM pools with contextual bandit learning | 📐 Spec / Prototype |
 
 > 📐 = Architecture designed, core logic prototyped, not yet production-deployed.
