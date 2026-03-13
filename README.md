@@ -64,6 +64,6 @@ because I needed it and nobody had built it yet.
 
 ### Let's talk
 
-[![Email](https://img.shields.io/badge/saulotorrado@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saulotorrado@gmail.com)
+[![Email](https://img.shields.io/badge/saulo.k3301@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saulotorrado@gmail.com)
 [![Twitter](https://img.shields.io/badge/@K0walskixd-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/K0walskixd)
 [![Telegram](https://img.shields.io/badge/@kowalski659-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kowalski659)
