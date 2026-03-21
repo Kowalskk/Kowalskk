@@ -24,9 +24,8 @@ because I needed it and nobody had built it yet.
 **On-Chain:** Dune Analytics (advanced SQL) · Arkham · Birdeye · Helius · Cielo
 **AI-Assisted Dev:** Claude (API + Desktop + MCP) · Cursor · Antigravity IDE
 **DeFi:** Hyperliquid · Polymarket · Jupiter · Meteora · Kamino · Orca · Raydium
- 
 
----  
+---
 
 ### What I shipped 🛠️
 
@@ -36,6 +35,7 @@ because I needed it and nobody had built it yet.
 | **[Funding Radar](https://github.com/Kowalskk/funding-radar)** | DEX funding rate aggregator for perpetual futures arbitrage signals. Hyperliquid + Aster | ✅ Live |
 | **[On-Chain Intel Suite](https://github.com/Kowalskk/onchain-intel-suite)** | Institutional-grade Solana forensic tracing and wallet analysis engine. Trace fund flows through complex multi-hop transfers. | ✅ Live |
 | **[X_SNIPE BOT](https://github.com/Kowalskk/trading-bots)** | High-performance bot that monitors Twitter accounts and correlates social signals with new token launches on Four.Meme (BSC). | ✅ Live |
+| **[FOMO Sniper](https://github.com/Kowalskk/fomo-base-sniper)** | Real-time FOMO entry detection engine. Monitors liquidity pools and price action for high-probability entry windows on Base and BSC. | ✅ Live |
 | **[Telegram Mirror Bot](https://github.com/Kowalskk/telegram-mirror-bot)** | Professional Telegram scraper and message mirror. High-performance forwarding/copying with advanced filtering and independent bot control | ✅ Live |
 | **[Meteora LP Agent](https://github.com/Kowalskk/meteora-lp-agent)** | Autonomous Solana liquidity agent for DLMM pools with contextual bandit learning | 📐 Spec / Prototype |
 
