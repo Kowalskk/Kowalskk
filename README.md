@@ -33,10 +33,10 @@ because I needed it and nobody had built it yet.
 | Project | What it does | Status |
 |---------|-------------|--------|
 | **[ProphetLabs](https://github.com/Kowalskk/prophetlabs)** | Prediction market arbitrage engine. Polymarket ↔ Opinion Labs ↔ Kalshi ↔ Predict, WebSocket streaming, 3-pass matching with LLM validation | ✅ Live |
-| **[Telegram Mirror Bot](https://github.com/Kowalskk/telegram-mirror-bot)** | Professional Telegram scraper and message mirror. High-performance forwarding/copying with advanced filtering and independent bot control | ✅ Live |
 | **[Funding Radar](https://github.com/Kowalskk/funding-radar)** | DEX funding rate aggregator for perpetual futures arbitrage signals. Hyperliquid + Aster | ✅ Live |
-| **[Solarized](https://github.com/Kowalskk/onchain-intel-suite)** | Institutional-grade Solana forensic tracing and wallet analysis engine. Trace fund flows through complex multi-hop transfers. | ✅ Live |
-| **[X_SNIPE BOT](https://github.com/Kowalskk/trading-bots)** | A high-performance trading bot designed to monitor Twitter accounts (like @cz_binance) and correlate tweets with new token launches on Four.Meme (Binance Smart Chain). | ✅ Live |
+| **[On-Chain Intel Suite](https://github.com/Kowalskk/onchain-intel-suite)** | Institutional-grade Solana forensic tracing and wallet analysis engine. Trace fund flows through complex multi-hop transfers. | ✅ Live |
+| **[X_SNIPE BOT](https://github.com/Kowalskk/trading-bots)** | High-performance bot that monitors Twitter accounts and correlates social signals with new token launches on Four.Meme (BSC). | ✅ Live |
+| **[Telegram Mirror Bot](https://github.com/Kowalskk/telegram-mirror-bot)** | Professional Telegram scraper and message mirror. High-performance forwarding/copying with advanced filtering and independent bot control | ✅ Live |
 | **[Meteora LP Agent](https://github.com/Kowalskk/meteora-lp-agent)** | Autonomous Solana liquidity agent for DLMM pools with contextual bandit learning | 📐 Spec / Prototype |
 
 > 📐 = Architecture designed, core logic prototyped, not yet production-deployed.
@@ -55,15 +55,16 @@ because I needed it and nobody had built it yet.
 
 ### Currently...
 
-- 🔨 building DeFi tools with Claude + Cursor + Antigravity
-- 🔍 deep-diving Hyperliquid ecosystem
+- 🔨 building execution tools for Hyperliquid and Polymarket — arbitrage, funding rate signals, prediction market strategies
+- 🔍 deep in on-chain: cabal detection, smart money tracking, bundle analysis across EVM and Solana
+- 📡 developing HFT and autotrading infrastructure as a power user, not a quant
 - 🏃 looking for remote roles: PM, Growth, BizDev, Operations, On-Chain Analysis
-- ☕ drinking too much coffee in Dubai
+- 📍 based in Dubai (GMT+4)
 
 ---
 
 ### Let's talk
 
-[![Email](https://img.shields.io/badge/saulo.k3301@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saulotorrado@gmail.com)
+[![Email](https://img.shields.io/badge/saulo.k3301@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saulo.k3301@gmail.com)
 [![Twitter](https://img.shields.io/badge/@K0walskixd-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/K0walskixd)
 [![Telegram](https://img.shields.io/badge/@kowalski659-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kowalski659)
