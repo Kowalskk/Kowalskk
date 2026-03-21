@@ -41,6 +41,7 @@ because I needed it and nobody had built it yet.
 | **[Telegram Scraper](https://github.com/Kowalskk/telegram-mirror-bot)** | Production-grade Telegram intelligence tool. Real-time channel monitoring, signal extraction, token tracking for on-chain traders | ✅ Live |
 | **[X_SNIPE BOT](https://github.com/Kowalskk/trading-bots)** | High-performance bot that monitors Twitter accounts and correlates social signals with new token launches on Four.Meme (BSC). | ✅ Live |
 | **[FOMO Sniper](https://github.com/Kowalskk/fomo-base-sniper)** | Real-time FOMO entry detection engine. Monitors liquidity pools and price action for high-probability entry windows on Base and BSC. | ✅ Live |
+| **[IZA DUBAI Suite](https://github.com/Kowalskk/IZA-DUBAI-Suite)** | Fashion brand intelligence suite. Web scraping, AI sentiment analysis, creative content generation (posts, briefs, prompts), Telegram control center | 🔒 Private |
 | **[Meteora LP Agent](https://github.com/Kowalskk/meteora-lp-agent)** | Autonomous Solana liquidity agent for DLMM pools with contextual bandit learning | 📐 Spec / Prototype |
 
 > 📐 = Architecture designed, core logic prototyped, not yet production-deployed.
