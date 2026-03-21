@@ -42,6 +42,7 @@ because I needed it and nobody had built it yet.
 | **[X_SNIPE BOT](https://github.com/Kowalskk/trading-bots)** | High-performance bot that monitors Twitter accounts and correlates social signals with new token launches on Four.Meme (BSC). | ✅ Live |
 | **[FOMO Sniper](https://github.com/Kowalskk/fomo-base-sniper)** | Real-time FOMO entry detection engine. Monitors liquidity pools and price action for high-probability entry windows on Base and BSC. | ✅ Live |
 | **[IZA DUBAI Suite](https://github.com/Kowalskk/IZA-DUBAI-Suite)** | Fashion brand intelligence suite. Web scraping, AI sentiment analysis, creative content generation (posts, briefs, prompts), Telegram control center | 🔒 Private |
+| **[PRJX — Milestone Graphics](https://www.figma.com/design/ahwcKvcJf40T8O1Du8sNQL/PRJX-PROPOSAL)** | Graphic design test for PRJX DEX (Hyperliquid HyperEVM). Two milestone cards: 30B Trading Volume & $25M Earned by LPers | 🎨 Design |
 | **[Meteora LP Agent](https://github.com/Kowalskk/meteora-lp-agent)** | Autonomous Solana liquidity agent for DLMM pools with contextual bandit learning | 📐 Spec / Prototype |
 
 > 📐 = Architecture designed, core logic prototyped, not yet production-deployed.
@@ -73,3 +74,5 @@ because I needed it and nobody had built it yet.
 [![Email](https://img.shields.io/badge/saulo.k3301@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saulo.k3301@gmail.com)
 [![Twitter](https://img.shields.io/badge/@K0walskixd-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/K0walskixd)
 [![Telegram](https://img.shields.io/badge/@kowalski659-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kowalski659)
+
+> 🎨 = Design work — brand systems, graphic production, Figma.
