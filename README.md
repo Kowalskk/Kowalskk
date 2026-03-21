@@ -33,6 +33,9 @@ because I needed it and nobody had built it yet.
 |---------|-------------|--------|
 | **[ProphetLabs](https://github.com/Kowalskk/prophetlabs)** | Prediction market arbitrage engine. Polymarket ↔ Opinion Labs ↔ Kalshi ↔ Predict, WebSocket streaming, 3-pass matching with LLM validation | ✅ Live |
 | **[Prophet Strategies](https://github.com/Kowalskk/prophet_strategies)** | Polymarket trading engine. Stink Bid (extreme limit orders) + Volatility Spread (symmetric positions). Includes backtesting, portfolio dashboard, real-time execution | ✅ Live |
+| **[ApexPredator](https://github.com/Kowalskk/ApexPredator)** | Solana on-chain analytics Telegram bot. KOL tracking, holder analysis, bundle detection, funding origin, early buyer identification | ✅ Live |
+| **[bonk-deploys](https://github.com/Kowalskk/bonk-deploys)** | BONK ecosystem monitor. Real-time detection of token deployments and migrations across Raydium, Orca, Meteora. Dual Telegram channels | ✅ Live |
+| **[bankr-deploys](https://github.com/Kowalskk/bankr-deploys)** | Bankr Bot deployment tracker for Base chain. Monitors @bankrbot tweets, extracts contracts, enriches with X profile data | ✅ Live |
 | **[Funding Radar](https://github.com/Kowalskk/funding-radar)** | DEX funding rate aggregator for perpetual futures arbitrage signals. Hyperliquid + Aster | ✅ Live |
 | **[Solarized](https://github.com/Kowalskk/Solarized)** | Institutional-grade Solana forensic tracing and wallet analysis engine. Trace fund flows through complex multi-hop transfers. | ✅ Live |
 | **[Telegram Scraper](https://github.com/Kowalskk/telegram-mirror-bot)** | Production-grade Telegram intelligence tool. Real-time channel monitoring, signal extraction, token tracking for on-chain traders | ✅ Live |
