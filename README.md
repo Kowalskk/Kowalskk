@@ -32,7 +32,7 @@ because I needed it and nobody had built it yet.
 | Project | What it does | Status |
 |---------|-------------|--------|
 | **[ProphetLabs](https://github.com/Kowalskk/prophetlabs)** | Prediction market arbitrage engine. Polymarket ↔ Opinion Labs ↔ Kalshi ↔ Predict, WebSocket streaming, 3-pass matching with LLM validation | ✅ Live |
-| **[Prophet Strategies](https://github.com/Kowalskk/prophet_strategies)** | Prediction market strategy execution engine. Real-time arbitrage detection across Polymarket, Kalshi, Opinion Labs with automated signal execution | ✅ Live |
+| **[Prophet Strategies](https://github.com/Kowalskk/prophet_strategies)** | Polymarket trading engine. Stink Bid (extreme limit orders) + Volatility Spread (symmetric positions). Includes backtesting, portfolio dashboard, real-time execution | ✅ Live |
 | **[Funding Radar](https://github.com/Kowalskk/funding-radar)** | DEX funding rate aggregator for perpetual futures arbitrage signals. Hyperliquid + Aster | ✅ Live |
 | **[Solarized](https://github.com/Kowalskk/Solarized)** | Institutional-grade Solana forensic tracing and wallet analysis engine. Trace fund flows through complex multi-hop transfers. | ✅ Live |
 | **[Telegram Scraper](https://github.com/Kowalskk/telegram-mirror-bot)** | Production-grade Telegram intelligence tool. Real-time channel monitoring, signal extraction, token tracking for on-chain traders | ✅ Live |
