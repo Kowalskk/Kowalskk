@@ -32,11 +32,12 @@ because I needed it and nobody had built it yet.
 | Project | What it does | Status |
 |---------|-------------|--------|
 | **[ProphetLabs](https://github.com/Kowalskk/prophetlabs)** | Prediction market arbitrage engine. Polymarket ↔ Opinion Labs ↔ Kalshi ↔ Predict, WebSocket streaming, 3-pass matching with LLM validation | ✅ Live |
+| **[Polymarket Strategies](https://github.com/Kowalskk/polymarket-keyword-filter)** | Prediction market strategy engine. Keyword-triggered signals, real-time quote analysis, automated execution for Polymarket arbitrage | ✅ Live |
 | **[Funding Radar](https://github.com/Kowalskk/funding-radar)** | DEX funding rate aggregator for perpetual futures arbitrage signals. Hyperliquid + Aster | ✅ Live |
 | **[Solarized](https://github.com/Kowalskk/Solarized)** | Institutional-grade Solana forensic tracing and wallet analysis engine. Trace fund flows through complex multi-hop transfers. | ✅ Live |
+| **[Telegram Scraper](https://github.com/Kowalskk/telegram-mirror-bot)** | Production-grade Telegram intelligence tool. Real-time channel monitoring, signal extraction, token tracking for on-chain traders | ✅ Live |
 | **[X_SNIPE BOT](https://github.com/Kowalskk/trading-bots)** | High-performance bot that monitors Twitter accounts and correlates social signals with new token launches on Four.Meme (BSC). | ✅ Live |
 | **[FOMO Sniper](https://github.com/Kowalskk/fomo-base-sniper)** | Real-time FOMO entry detection engine. Monitors liquidity pools and price action for high-probability entry windows on Base and BSC. | ✅ Live |
-| **[Telegram Mirror Bot](https://github.com/Kowalskk/telegram-mirror-bot)** | Professional Telegram scraper and message mirror. High-performance forwarding/copying with advanced filtering and independent bot control | ✅ Live |
 | **[Meteora LP Agent](https://github.com/Kowalskk/meteora-lp-agent)** | Autonomous Solana liquidity agent for DLMM pools with contextual bandit learning | 📐 Spec / Prototype |
 
 > 📐 = Architecture designed, core logic prototyped, not yet production-deployed.
