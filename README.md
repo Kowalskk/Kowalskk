@@ -33,7 +33,7 @@ because I needed it and nobody had built it yet.
 |---------|-------------|--------|
 | **[ProphetLabs](https://github.com/Kowalskk/prophetlabs)** | Prediction market arbitrage engine. Polymarket ↔ Opinion Labs ↔ Kalshi ↔ Predict, WebSocket streaming, 3-pass matching with LLM validation | ✅ Live |
 | **[Funding Radar](https://github.com/Kowalskk/funding-radar)** | DEX funding rate aggregator for perpetual futures arbitrage signals. Hyperliquid + Aster | ✅ Live |
-| **[On-Chain Intel Suite](https://github.com/Kowalskk/onchain-intel-suite)** | Institutional-grade Solana forensic tracing and wallet analysis engine. Trace fund flows through complex multi-hop transfers. | ✅ Live |
+| **[Solarized](https://github.com/Kowalskk/Solarized)** | Institutional-grade Solana forensic tracing and wallet analysis engine. Trace fund flows through complex multi-hop transfers. | ✅ Live |
 | **[X_SNIPE BOT](https://github.com/Kowalskk/trading-bots)** | High-performance bot that monitors Twitter accounts and correlates social signals with new token launches on Four.Meme (BSC). | ✅ Live |
 | **[FOMO Sniper](https://github.com/Kowalskk/fomo-base-sniper)** | Real-time FOMO entry detection engine. Monitors liquidity pools and price action for high-probability entry windows on Base and BSC. | ✅ Live |
 | **[Telegram Mirror Bot](https://github.com/Kowalskk/telegram-mirror-bot)** | Professional Telegram scraper and message mirror. High-performance forwarding/copying with advanced filtering and independent bot control | ✅ Live |
