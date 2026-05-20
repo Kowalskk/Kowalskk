@@ -38,8 +38,8 @@ because I needed it and nobody had built it yet.
 | **[ProphetLabs](https://prophetlabs.vercel.app/)** | Prediction market arbitrage engine. Polymarket ↔ Opinion Labs ↔ Kalshi ↔ Predict, WebSocket streaming, 3-pass matching with LLM validation. | ✅ Live |
 | **[Prophet Strategies](https://github.com/Kowalskk/prophet_strategies)** | Polymarket trading engine. Stink Bid (extreme limit orders) + Volatility Spread (symmetric positions). Includes backtesting, portfolio dashboard, real-time execution. | ✅ Live |
 | **[Solarized](https://github.com/Kowalskk/Solarized)** | Institutional-grade Solana forensic tracing and wallet analysis engine. Trace fund flows through complex multi-hop transfers. | ✅ Live |
-| **[ApexPredator](https://github.com/Kowalskk/ApexPredator)** | Solana on-chain analytics Telegram bot. KOL tracking, holder analysis, bundle detection, funding origin, early buyer identification. | ✅ Live |
-| **LivoSniper** | Base meme launch sniper for Livo launchpad. Documented strategy: don't compete on speed, win on exit management. Configurable TPs (100% / 300% / 1000%), stop-loss, and time-based exits. Filters tax tokens and V4 traps. | 🔒 Private · Showcase coming |
+| **[ApexPredator](https://github.com/Kowalskk/ApexPredator)** | On-chain analytics Telegram bot, primarily EVM with Solana coverage. KOL tracking, holder analysis, bundle detection, funding origin, early buyer identification. | ✅ Live |
+| **LivoSniper** | Launchpad sniper. Documented strategy: don't compete on speed, win on exit management. Configurable TPs (100% / 300% / 1000%), stop-loss, and time-based exits. Filters tax tokens and V4 traps. | 🔒 Private · Showcase coming |
 
 ---
 
