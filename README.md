@@ -1,10 +1,10 @@
 # Hi, I'm Saulo
 
-I build trading products for on-chain markets, and I trade on them every day.
+I build and run trading products for on-chain markets, deep in Hyperliquid, Polymarket and launchpad trading. My main project is Ktrade, a web trading terminal I took from idea to live trading on my own with AI-assisted development. I also do on-chain intelligence, tracing funds and wallets. Before crypto, 13 years running business development and a P&L.
 
-I'm not a software engineer by training. I spent 13 years running business development and the P&L of a manufacturing company, then moved into crypto full time. I build with AI-assisted tools (Claude Code, Cursor) and ship what I need as a trader.
+I'm not a software engineer by training. I build with AI-assisted tools (Claude Code, Cursor) and ship what I need as a trader.
 
-Dubai, UAE (GMT+4)
+Dubai, UAE (GMT+4) · Open to product roles in on-chain trading
 
 ---
 
